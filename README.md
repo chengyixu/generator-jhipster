@@ -138,3 +138,8 @@ Additional builds at [hipster-labs/jhipster-daily-builds](https://github.com/hip
 [snyk-url]: https://snyk.io/test/npm/generator-jhipster
 [health-image]: https://snyk.io/advisor/npm-package/generator-jhipster/badge.svg
 [health-url]: https://snyk.io/advisor/npm-package/generator-jhipster
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
